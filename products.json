@@ -49,8 +49,6 @@
         "price": 99999.99
     },
     {
-
-
         "id": "8",
         "title": "Tojota Korolla",
         "image": "tojota_corolla.jpg",
@@ -58,12 +56,13 @@
         "price": 99979.49
     },
     {
-            "id": "9",
+        "id": "9",
         "title": "De Dion La Marquise",
         "image": "de-dion-la-marquise.jpg",
         "description": "The oldest running car in the World",
         "price": 4200000.00
     },
+    {
         "id": "10",
         "title": "Subaru Legacy",
         "image": "subaru-legacy.jpg",
@@ -72,17 +71,24 @@
 
     },
 	{
-        "id": "678",
+        "id": "11",
         "title": "Chevrolet Corvette",
         "image": "chevrolet-corvette.jpg",
         "description": "Front engine, rear drive, two-door, two-passenger sports car manufactured and marketed by Chevrolet across more than sixty years of production and seven design generations",
-        "price": 55,495
-    }
+        "price": 55.495
+    },
     {
-        "id": "8",
+        "id": "12",
         "title": "ZAZ sens",
         "image": "zazsens.jpg",
         "description": "Best crossover in the World",
         "price": 99999.99
+    },
+    {
+        "id": "13",
+        "title": "Bugatti Veyron",
+        "image": "bugatti-veyron.jpg",
+        "description": "Kek",
+        "price": 1000000000
     }
 ]
