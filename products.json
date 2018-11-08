@@ -48,4 +48,11 @@
         "description": "Best crossover in the World",
         "price": 99999.99
     }
+    {
+        "id": "8",
+        "title": "ZAZ sens",
+        "image": "zazsens.jpg",
+        "description": "Best crossover in the World",
+        "price": 99999.99
+    }
 ]
