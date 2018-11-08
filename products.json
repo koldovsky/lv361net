@@ -62,5 +62,12 @@
         "description": "Really good car!",
         "price": 99999.99
 
+    },
+	{
+        "id": "678",
+        "title": "Chevrolet Corvette",
+        "image": "chevrolet-corvette.jpg",
+        "description": "Front engine, rear drive, two-door, two-passenger sports car manufactured and marketed by Chevrolet across more than sixty years of production and seven design generations",
+        "price": 55,495
     }
 ]
