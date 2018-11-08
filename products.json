@@ -49,10 +49,18 @@
         "price": 99999.99
     },
     {
+
         "id": "8",
         "title": "Tojota Korolla",
         "image": "tojota_corolla.jpg",
         "description": "Simply best of the best",
         "price": 99979.49
+    },
+        "id": "10",
+        "title": "Subaru Legacy",
+        "image": "subaru-legacy.jpg",
+        "description": "Really good car!",
+        "price": 99999.99
+
     }
 ]
