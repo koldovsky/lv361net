@@ -47,5 +47,12 @@
         "image": "tesla-x.jpg",
         "description": "Best crossover in the World",
         "price": 99999.99
+    },
+    {
+        "id": "8",
+        "title": "Tojota Korolla",
+        "image": "tojota_corolla.jpg",
+        "description": "Simply best of the best",
+        "price": 99979.49
     }
 ]
